@@ -87,7 +87,7 @@ export default {
     data() {
         return {
             api_key: '1d35dcc8063b4122ad764306233001',
-            url_base: 'http://api.weatherapi.com/v1/',
+            url_base: 'https://api.weatherapi.com/v1/',
             weather_icon: '//cdn.weatherapi.com/weather/64x64/day/',
             weather: {},
 
